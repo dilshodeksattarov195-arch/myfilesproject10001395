@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdalidate",
+        "uuid": 2707695,
+        "checksum": "qbv9cq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
